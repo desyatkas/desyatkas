@@ -1,6 +1,6 @@
 # Hello, world!
 
-I'm Sergey Desyatkov, mainly known as Desyatkas.
+I'm Sergey Desyatkov, mainly known as Desyatkas (previously: desyatkoff, Serriox, Serrr - my old nicknames).
 
 I'm interested in...
 * Linux and open source
